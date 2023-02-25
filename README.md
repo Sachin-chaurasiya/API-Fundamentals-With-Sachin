@@ -1,6 +1,8 @@
 # API-Fundamentals-With-Sachin
 
 ## What is an API?
+<p align="center"><img width="923" alt="image" src="https://user-images.githubusercontent.com/59080942/221373268-eabe692c-b5c4-4763-9d6a-9662a68f7b5f.png">
+</p>
 
 API stands for **Application programming interface**, API is a building block of many software that we use in our day-to-day life, API makes it possible of sharing resources and services with different applications.
 
